@@ -31,13 +31,15 @@ h6 {
 	margin:20px;
 	padding:10px;
 	width: 400px;
+	text-align: center;
 }
 .references{
 	font-size: 20px;
 	margin:20px;
 	padding:10px;
 	width: 400px;
-
+	text-align: center;
+	
 }
 .window:hover{
 	transform: perspective(600px) rotateX(0deg) rotateY(0deg);
