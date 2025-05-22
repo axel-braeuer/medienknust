@@ -30,14 +30,18 @@ h6 {
 	font-size: 20px;
 	margin:20px;
 	padding:10px;
-	width: 400px;
+	width: 100vw;
+	box-sizing: border-box;
+	max-width: 400px;
 	text-align: center;
 }
 .references{
 	font-size: 20px;
 	margin:20px;
 	padding:10px;
-	width: 400px;
+	width: 100 vw;
+	box-sizing: border-box;
+	max-width: 400px;
 	text-align: center;
 	
 }
