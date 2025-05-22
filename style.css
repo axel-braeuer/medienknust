@@ -2,4 +2,45 @@ body{
 	background-color: LightGreen;
 }
 
-p{ text-align: center;}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h4 {
+	text-align: center;
+}
+h5 {
+	text-align: center;
+}
+h6 {
+	text-align: center;
+}
+.shadow-box{
+	font-size: 20px;
+	margin:20px;
+	padding:10px;
+	width: 400px;
+	box-shadow: 8px 8px 15px rgba(0,0,0,0.3);
+
+}
+
+.contact{
+	font-size: 20px;
+	margin:20px;
+	padding:10px;
+	width: 400px;
+}
+.references{
+	font-size: 20px;
+	margin:20px;
+	padding:10px;
+	width: 400px;
+
+}
+.window:hover{
+	transform: perspective(600px) rotateX(0deg) rotateY(0deg);
+}
+	
+
